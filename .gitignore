@@ -1,0 +1,12 @@
+.phpunit.cache/
+.phpunit.result.cache
+/vendor/
+/composer.lock
+
+###> Editors ###
+/.idea
+/.vscode
+/.settings/
+.buildpath
+.project
+###< Editors ###
